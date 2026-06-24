@@ -1,9 +1,12 @@
+import Hero from '@/components/homepage/Banner';
+import FeaturedEbooks from '@/components/homepage/FeaturedEbooks';
 import React from 'react';
 
 const HomePage = () => {
   return (
     <div>
-      <h2>HomePage</h2>
+            <Hero></Hero>
+            <FeaturedEbooks></FeaturedEbooks>
     </div>
   );
 };
