@@ -9,7 +9,7 @@ export default function Footer() {
           
           {/* Brand & Newsletter Section */}
           <div className="flex flex-col space-y-4">
-            <span className="text-xl font-bold text-white tracking-tight">YourLogo</span>
+            <span className="text-xl font-bold text-white tracking-tight">BookStream</span>
             <p className="text-sm text-slate-400">
               Stay updated with our latest news and features.
             </p>
