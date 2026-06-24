@@ -1,5 +1,6 @@
 import Hero from '@/components/homepage/Banner';
 import FeaturedEbooks from '@/components/homepage/FeaturedEbooks';
+import TopWriters from '@/components/homepage/TopWriter';
 import React from 'react';
 
 const HomePage = () => {
@@ -7,6 +8,7 @@ const HomePage = () => {
     <div>
             <Hero></Hero>
             <FeaturedEbooks></FeaturedEbooks>
+            <TopWriters></TopWriters>
     </div>
   );
 };

@@ -13,7 +13,7 @@ const EbookCard = ({ebook}) => {
                   alt={ebook.title}
                   fill
                   sizes="(max-w-7xl) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
-                  className="object-cover object-center group-hover:scale-102 transition-transform duration-300"
+                  className="object-cogver object-center group-hover:scale-102 transition-transform duration-300"
                 />
                 
                 {/* Conditional "Sold" Badge Overlay */}
